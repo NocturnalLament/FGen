@@ -9,5 +9,9 @@ and the following will be made-
 - A basic Makefile
 - GitIgnore file, with a notes section pre-ignored.
 - .FSProj file with single file executable settings pre-written.
+- Allows you to download the following into your project quickly
+  - Newtonsoft.JSON - https://www.newtonsoft.com/json
+  - Argu - https://github.com/fsprojects/Argu
+  - Spectre.Console - https://github.com/spectreconsole/spectre.console 
 
 You are then free to run the cleaner script to remove the Readme and executable, (or do that manually) and get working!
